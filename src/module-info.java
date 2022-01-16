@@ -1,0 +1,2 @@
+module MainProject1 {
+}
